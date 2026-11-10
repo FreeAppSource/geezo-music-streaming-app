@@ -1,5 +1,7 @@
 # Geezo Music Streaming App (High Fidelity Audio & Radio)
 
+> 👨‍💻 Developed by **[Suresh Kumar Meesala](https://github.com/SureshKumarMeesala)** · 🎨 UI design by **Orange** (credits below)
+
 A mobile application built for **Geezo Music** — with screens for music streaming, curated playlists, artist profiles, music videos, equalizer presets, and live radio (UI demo with sample data).
 
 Based on the 52 Sketch artboards in `Geezo Music Streaming App/design`.
@@ -58,6 +60,21 @@ npx expo start
 Then press `i` for the iOS simulator, `a` for Android, or `w` for the web, or scan the QR code with Expo Go.
 
 <!-- run-locally:end -->
+
+<!-- developer:start -->
+
+## 👨‍💻 Developer
+
+This React Native app was developed by **Suresh Kumar Meesala**.
+
+| | |
+|---|---|
+| Developer | [Suresh Kumar Meesala](https://github.com/SureshKumarMeesala) |
+| GitHub | [@SureshKumarMeesala](https://github.com/SureshKumarMeesala) |
+| Organization | [FreeAppSource](https://github.com/FreeAppSource) |
+| Repository | <https://github.com/FreeAppSource/geezo-music-streaming-app> |
+
+<!-- developer:end -->
 
 ---
 
