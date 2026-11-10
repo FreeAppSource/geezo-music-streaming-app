@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Geezo Music Streaming App",
+    "slug": "geezo-music",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FF2E63"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "geezomusic"
+  }
+}
