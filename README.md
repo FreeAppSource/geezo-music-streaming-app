@@ -2,14 +2,14 @@
 
 > 👨‍💻 Developed by **[Suresh Kumar Meesala](https://github.com/SureshKumarMeesala)** · 🎨 UI design by **Orange** (credits below)
 
-A mobile application built for **Geezo Music** — with screens for music streaming, curated playlists, artist profiles, music videos, equalizer presets, and live radio (UI demo with sample data).
+A mobile application built for **Geezo Music** - with screens for music streaming, curated playlists, artist profiles, music videos, equalizer presets, and live radio (UI demo with sample data).
 
 Based on the 52 Sketch artboards in `Geezo Music Streaming App/design`.
 
 ## Tech Stack & Architecture
 - **Framework**: React Native 0.88+, Expo SDK 58+
 - **Navigation**: Expo Router (File-based navigation with `src/app/`)
-- **Language**: Pure JavaScript & JSX (`.js`, `.jsx` only — 0% TypeScript)
+- **Language**: Pure JavaScript & JSX (`.js`, `.jsx` only - 0% TypeScript)
 - **Styling**: StyleSheet with semantic design tokens (Electric Lime `#CBFB5E`, Midnight `#0E0B1F`, Card `#20232E`, Vivid Pink `#FF2E63`)
 - **Theme**: Dark (Default) & Light mode support via context (`src/theme.js`)
 - **Icons**: `@expo/vector-icons` (Ionicons)
